@@ -1,8 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
+/**
+*main - print number positive
+*
+*Return: always success
+*/
 
-/* betty style doc for function main goes there */
 int main(void)
 {
 
@@ -11,14 +14,14 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 
-	printf("%d \n", x);
+	printf("%d \n", n);
 
-	if (x > 0)
+	if (n > 0)
 	{
 		printf("le nombre est positif \n");
 
 	}
-	else if (x < 0)
+	else if (n < 0)
 	{
 
 		printf("le nombre est négatif \n");
