@@ -2,10 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
-*main - print number positive
-*
-*Return: always success
-*/
+ *main - print number positive
+ *
+ *Return: always success
+ */
 
 int main(void)
 {
