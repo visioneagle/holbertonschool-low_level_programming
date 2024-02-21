@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * Main: déclare variable
- * Return: Success
+ * main: déclaration variable
+ * Return:  0 (Success)
  */
 
 int main(void)
