@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main: déclaration variable
+ * main - déclaration variable
  * Return:  0 (Success)
  */
 
