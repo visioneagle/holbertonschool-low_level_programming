@@ -1,7 +1,6 @@
 #include <stdio.h>
-
 /**
- * Main: déclare une variable type char puis initialise la premmère lettre de l'alphabet
+ * Main: déclare variable
  * Return: Success
  */
 
