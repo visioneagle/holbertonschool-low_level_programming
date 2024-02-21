@@ -8,11 +8,11 @@
 int main(void)
 {
 	int n;
-	int lastd;
+	int m;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	lastd = n % 10;
+	m = n % 10;
 
 	if (n > 5)
 	{
