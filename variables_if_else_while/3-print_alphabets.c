@@ -1,7 +1,7 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
- * main - prints alphabetique minus et majuscule 
- * Return = ok success
+ * main - Prints alphabetique minus et majuscule
+ * Return: Ok success
  */
 int main(void)
 {
@@ -21,5 +21,5 @@ int main(void)
 	putchar('\n');
 
 	return (0);
-	
+
 }
