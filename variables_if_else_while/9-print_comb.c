@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-*main -  all possible combinations of single-digit numbers
-*Return: valide code
-*/
+ *main -  all possible combinations of single-digit numbers
+ *Return: valide code
+ */
 
 int main(void)
 {
@@ -21,5 +21,7 @@ int main(void)
 	}
 
 	putchar('\n');
+
+	return(0);
 
 }
