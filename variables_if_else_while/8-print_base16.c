@@ -6,17 +6,17 @@
 int main(void)
 {
 
-        int 123;
-	char abc;
+        int num;
+	char alph;
 
-	for (123 = '0'; 123 <= 9; 123++)
+	for (num = 0; num <= 9; 123++)
 
 
 		putchar(123);
 
 
 
-	for (abc = 'a'; abc <= 'f'; abc++)
+	for (alph = 'a'; abc <= 'f'; abc++)
 
 
 		putchar(abc);
