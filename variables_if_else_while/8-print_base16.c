@@ -6,13 +6,13 @@
 int main(void)
 {
 
-        int num;
+	int num;
 	char alph;
 
-	for (num = 0; num <= 9; num++)
+	for (num = 0; num <= 10; num++)
 
 
-		putchar(num);
+		putchar(num % 10 + '0');
 
 
 
@@ -21,7 +21,7 @@ int main(void)
 
 		putchar(alph);
 
-	
+
 
 	putchar('\n');
 	return (0);
