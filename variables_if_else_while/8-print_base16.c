@@ -9,17 +9,17 @@ int main(void)
         int num;
 	char alph;
 
-	for (num = 0; num <= 9; 123++)
+	for (num = 0; num <= 9; num++)
 
 
-		putchar(123);
+		putchar(num);
 
 
 
-	for (alph = 'a'; abc <= 'f'; abc++)
+	for (alph = 'a'; alph <= 'f'; alph++)
 
 
-		putchar(abc);
+		putchar(alph);
 
 	
 
