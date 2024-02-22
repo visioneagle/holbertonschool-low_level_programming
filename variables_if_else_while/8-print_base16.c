@@ -6,19 +6,20 @@
 int main(void)
 {
 
-	char abc123;
+        int 123;
+	char abc;
 
-	for (abc123 = '0'; abc123 < 9; abc123++)
-	
+	for (123 = '0'; 123 < 9; 123++)
 
-		putchar(abc123);
 
-	
+		putchar(123);
 
-	for (abc123 = 'a'; abc123 < 'f'; abc123++)
-	
 
-		putchar(abc123);
+
+	for (abc = 'a'; abc < 'f'; abc++)
+
+
+		putchar(abc);
 
 	
 
