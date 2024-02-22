@@ -9,14 +9,14 @@ int main(void)
         int 123;
 	char abc;
 
-	for (123 = '0'; 123 < 9; 123++)
+	for (123 = '0'; 123 <= 9; 123++)
 
 
 		putchar(123);
 
 
 
-	for (abc = 'a'; abc < 'f'; abc++)
+	for (abc = 'a'; abc <= 'f'; abc++)
 
 
 		putchar(abc);
