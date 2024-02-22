@@ -18,7 +18,7 @@ int main(void)
 	for (abc123 = '0'; abc123 <= 'f'; abc123++)
 	{
 
-		putchar(abc123)
+		putchar(abc123);
 
 	}
 
