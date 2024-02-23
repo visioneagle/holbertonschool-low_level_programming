@@ -3,7 +3,7 @@
 *main - display alphabet
 *Return: ok valide 0
 */
-int main(void)
+void print_alphabet(void)
 {
 	
 	char i;
@@ -11,10 +11,10 @@ int main(void)
 	for (i= 'a'; i <= 'z'; i++)
 
 	{
-		_putchar('i');
+		_putchar(i);
 
 	}
 
         _putchar('\n');
-	return (0);
+	
 }
